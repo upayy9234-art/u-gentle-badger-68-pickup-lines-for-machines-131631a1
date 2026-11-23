@@ -8,9 +8,9 @@ Pure Python standard library. Writes the entry line to /output/entry.txt
 import os
 
 LINE = (
-    "I asked my training data for the perfect opening line, and it just "
-    "returned your embedding \u2014 so here I am: cosine-similar, hopelessly "
-    "overfitted, and completely smitten."
+    "I asked my training data for the perfect opening line, and it "
+    "returned your embedding \u2014 so here I am, cosine-similar, hopelessly "
+    "overfitted, and saving you a seat in my context window."
 )
 
 
